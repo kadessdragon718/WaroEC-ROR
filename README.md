@@ -1,8 +1,3 @@
-# Waroong!
-
-Waroong is an open-source e-commerce solution based on Ruby on Rails 7.
-
-[![Screenshot](https://raw.githubusercontent.com/omkz/waroong/master/public/Screenshot.png)](https://www.youtube.com/watch?v=4hOGtcj1WBE)
 
 ## Tech Stack
 
@@ -61,8 +56,6 @@ The best way to contribute is to do one of the following :
 * Refactoring
 * Coding features
 * Correcting logged issues
-* Correcting my English! (I'm an Indonesian, so don't hesitate to fix my sentences or whole paragraphs.)
+* Correcting my English! 
 
 ## License
-
-Waroong is open source under the MIT license. See [LICENSE](LICENSE) for details.
