@@ -26,10 +26,6 @@ Before you get started, the following needs to be installed:
 
 1. Get the code. Clone this git repository:
 
-  ```bash
-  git clone git://github.com/omkz/waroong.git
-  cd waroong
-  ```
 
 2. Install the required gems by running the following command in the project root directory:
 
